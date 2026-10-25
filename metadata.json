@@ -1,0 +1,6 @@
+{
+  "name": "ScholarCBT — Grade 7 AI Assessment Platform",
+  "description": "Production-grade source-grounded Computer-Based Testing (CBT) and curriculum assessment platform for Grade 7 students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

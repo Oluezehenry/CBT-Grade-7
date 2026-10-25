@@ -1,0 +1,21 @@
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shield" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="55%" stop-color="#312E81" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <linearGradient id="gold" x1="18" y1="10" x2="46" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FDE68A" />
+      <stop offset="50%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0F172A" />
+  <path d="M32 5L54 13.5V30.5C54 44.2 44.6 54.4 32 59C19.4 54.4 10 44.2 10 30.5V13.5L32 5Z" fill="url(#shield)" stroke="url(#gold)" stroke-width="2.5" stroke-linejoin="round" />
+  <path d="M32 13L45 19L32 25L19 19L32 13Z" fill="url(#gold)" />
+  <path d="M45 19V25.5" stroke="#FDE68A" stroke-width="2" stroke-linecap="round" />
+  <circle cx="45" cy="26.5" r="1.6" fill="#FBBF24" />
+  <path d="M18 30.5C22.5 29.5 27.5 30.8 32 33.5C36.5 30.8 41.5 29.5 46 30.5V43.5C41.5 42.5 36.5 43.8 32 46.5C27.5 43.8 22.5 42.5 18 43.5V30.5Z" fill="#F8FAFC" />
+  <path d="M32 33.5V46.5" stroke="#4F46E5" stroke-width="2" stroke-linecap="round" />
+</svg>

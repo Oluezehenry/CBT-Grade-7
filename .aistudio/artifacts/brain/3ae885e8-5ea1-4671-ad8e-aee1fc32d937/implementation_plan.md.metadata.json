@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for per-user clean exam history (zero pre-seeded attempts for new users) and all 5 platform enhancements: Weak-Topic Revision Mode, Printable Candidate Result Slip & Term Report Card, Flagged/Missed Questions Revision Deck, Active Exam Keyboard Shortcut Legend, and Teacher Cohort CSV/JSON Export.",
+  "updatedAt":  "2026-10-25T07:54:47.261251177Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

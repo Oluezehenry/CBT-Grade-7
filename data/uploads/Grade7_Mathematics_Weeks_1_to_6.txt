@@ -1,0 +1,77 @@
+[Page 1]
+Week 1: Whole Numbers, Standard Form, Prime Factors, and Laws of Indices
+Standard Scientific Notation: A positive number is expressed in standard form when written as A * 10^n, where 1 <= A < 10 and n is an integer exponent.
+Decimal Shift Rule in Standard Form: Moving the decimal point k places to the left in a large number increases the positive power of 10 by k, so 45,000,000 becomes 4.5 * 10^7.
+Negative Exponents for Small Decimals: A decimal between 0 and 1 written in standard form has a negative exponent equal to the number of places the decimal point moves to the right, so 0.00038 is 3.8 * 10^-4.
+First Law of Indices (Product of Powers): Multiplying exponential terms with the same non-zero base requires keeping the common base and adding their exponents according to a^m * a^n = a^(m + n).
+Second Law of Indices (Quotient of Powers): Dividing exponential terms with the same non-zero base requires keeping the base and subtracting the denominator exponent from the numerator exponent using a^m / a^n = a^(m - n).
+Zero Index Identity: Any non-zero real number raised to the power of zero is always equal to 1, expressed algebraically as a^0 = 1.
+Power of a Power Law: Raising an exponential expression to another power requires multiplying the two exponents together according to (a^m)^n = a^(m * n).
+Highest Common Factor (HCF): The HCF of two or more positive integers is the largest integer that divides evenly into each number without leaving a remainder, found by multiplying common prime factors raised to their lowest powers.
+Lowest Common Multiple (LCM): The LCM of two or more positive integers is the smallest positive integer that is a multiple of each number, found by multiplying all prime factors raised to their highest powers across the numbers.
+Relationship Between HCF and LCM: For any two positive integers P and Q, the product of the two numbers equals the product of their HCF and LCM, so P * Q = HCF(P, Q) * LCM(P, Q).
+
+[Page 3]
+Week 2: Fractions, Decimals, Percentages, Ratios, and Proportions
+Equivalent Fractions Property: Multiplying or dividing both the numerator and non-zero denominator of a fraction by the same non-zero integer produces an equivalent fraction of equal value.
+Improper Fractions and Mixed Numbers: An improper fraction has a numerator greater than or equal to its denominator, and it is converted to a mixed number by dividing the numerator by the denominator to find the whole-number quotient and remainder.
+Division of Fractions by Reciprocal Multiplication: Dividing a fraction a/b by another non-zero fraction c/d is performed by multiplying the first fraction by the reciprocal of the divisor, giving (a * d) / (b * c).
+Terminating vs Recurring Decimals: A fraction in simplest form converts to a terminating decimal if and only if the prime factorization of its denominator contains only factors of 2 and 5; otherwise it produces a repeating decimal.
+Direct Proportion Principle: Two quantities x and y are in direct proportion when their ratio y / x equals a constant k, meaning that tripling x causes y to triple by the exact same factor.
+Inverse Proportion Principle: Two quantities x and y are in inverse proportion when their product x * y equals a constant k, meaning that doubling the number of workers x halves the time y needed to finish a fixed job.
+Percentage Increase and Decrease Formula: Percentage change is always calculated relative to the initial baseline quantity using ((New Value - Original Value) / Original Value) * 100%.
+Simple Interest Calculation: Simple interest I earned on a principal sum P invested at an annual percentage rate R for T years is given by the formula I = (P * R * T) / 100.
+Ratio Partitioning into Proportional Shares: Splitting a total quantity S into a ratio a : b : c requires dividing S by the sum of the ratio parts (a + b + c) to find the value of one unitary part.
+Discount and Selling Price: A discount is a percentage reduction deducted from the marked price of an item, so Selling Price equals Marked Price minus Discount.
+
+[Page 5]
+Week 3: Algebraic Expressions, Expansion, Factorization, and Linear Equations
+Coefficients, Variables, and Constants: In the algebraic expression 9x^2 - 4x + 11, the number 9 is the coefficient of x^2, -4 is the coefficient of x, and 11 is the constant term independent of x.
+Combining Like Algebraic Terms: Terms can be added or subtracted into a single term only when they possess identical variable letters raised to the exact same exponents.
+Distributive Law of Bracket Expansion: Expanding the product a(bx + c) requires multiplying the outside factor a by every interior term inside the brackets to obtain abx + ac.
+Negative Multiplier Before Brackets: Expanding an expression preceded by a minus sign, such as -3(2y - 5), reverses the sign of every term inside the brackets to yield -6y + 15.
+Monomial Common Factor Factorization: Factoring 15a^2b - 20ab^2 requires extracting the highest common monomial factor 5ab from each term to produce 5ab(3a - 4b).
+Difference of Two Squares Pattern: An algebraic expression of the form x^2 - y^2 factors into two conjugate binomials as (x - y)(x + y).
+Balance Method for Linear Equations: Solving a linear equation in one unknown requires applying identical inverse arithmetic operations to both sides of the equals sign to isolate the variable.
+Clearing Fractional Linear Equations: An equation containing fractions, such as (x / 3) + (x / 4) = 7, is cleared of denominators by multiplying every term on both sides by the LCM of the denominators (12).
+Translating Word Problems into Equations: If a number n is trebled and decreased by 8 to give 19, the corresponding algebraic equation is 3n - 8 = 19, which yields n = 9.
+Linear Inequality Sign Reversal Rule: Multiplying or dividing both sides of a linear inequality by a negative number reverses the direction of the inequality symbol.
+
+[Page 7]
+Week 4: Plane Geometry, Angle Theorems, Parallel Lines, and Polygons
+Complementary Angle Pair: Two angles are complementary if the sum of their degree measures equals exactly 90 degrees, so the complement of a 37-degree angle is 53 degrees.
+Supplementary Angle Pair on a Straight Line: Adjacent angles lying on a straight line are supplementary and have a sum of 180 degrees, so the supplement of a 118-degree angle is 62 degrees.
+Vertically Opposite Angles Theorem: When two straight lines intersect at a single vertex, the vertically opposite angles formed across the vertex are always equal in measure.
+Angles Meeting Around a Point: The total sum of all non-overlapping angles meeting around a single point in a plane is always 360 degrees.
+Alternate Interior Angles on Parallel Lines: When a transversal line intersects two parallel lines, the alternate interior angles lying on opposite sides of the transversal between the parallel lines are equal.
+Co-Interior (Allied) Angles on Parallel Lines: Co-interior angles lying on the same side of a transversal between two parallel lines are supplementary and add up to 180 degrees.
+Interior Angle Sum of a Triangle: The three interior angles of any planar triangle always sum to 180 degrees.
+Exterior Angle Theorem for Triangles: An exterior angle formed by extending one side of a triangle equals the sum of the two opposite interior angles.
+Sum of Interior Angles of a Convex Polygon: For any n-sided convex polygon, the sum of all interior angles equals (n - 2) * 180 degrees, giving 540 degrees for a pentagon and 720 degrees for a hexagon.
+Exterior Angles of Regular Polygons: The sum of the exterior angles of any convex polygon taken one per vertex is always 360 degrees, so each exterior angle of a regular n-sided polygon measures 360 / n degrees.
+
+[Page 9]
+Week 5: Mensuration of Perimeter, Plane Area, Surface Area, and 3D Volume
+Perimeter of Rectangles and Polygons: Perimeter is the total linear boundary distance around a closed plane figure, given by P = 2(L + W) for a rectangle of length L and width W.
+Circumference of a Circle: The circumference C of a circle with radius r and diameter d = 2r is calculated using C = 2 * pi * r or C = pi * d.
+Area of a Triangle: The area of any triangle equals one-half multiplied by its base length b and its perpendicular height h, written as A = 0.5 * b * h.
+Area of a Parallelogram: The area of a parallelogram equals its base length multiplied by the perpendicular distance (height) between the parallel bases, not the slant side length.
+Area of a Trapezium: A trapezium with parallel sides of lengths a and b separated by perpendicular height h has an area given by A = 0.5 * (a + b) * h.
+Area of a Circle and Radius Scaling: The area of a circle is A = pi * r^2, which means doubling the radius r increases the area by a factor of 2^2 = 4.
+Volume of a Rectangular Cuboid: The volume V of a cuboid with length l, width w, and height h is V = l * w * h expressed in cubic units.
+Total Surface Area of a Cuboid: A closed rectangular cuboid has six rectangular faces with a total surface area of TSA = 2(lw + lh + wh).
+Volume of a Right Circular Cylinder: The volume of a cylinder equals the area of its circular base multiplied by its perpendicular height, given by V = pi * r^2 * h.
+Unit Conversion for Area and Volume: Because 1 meter equals 100 centimeters, 1 square meter equals 10,000 square centimeters (100^2) and 1 cubic meter equals 1,000,000 cubic centimeters (100^3).
+
+[Page 11]
+Week 6: Statistics, Data Representation, Central Tendency, and Probability
+Frequency Distribution Table: A frequency table organizes raw data by listing each distinct score or category x alongside its frequency f, which counts how often that value occurs.
+Arithmetic Mean of Ungrouped Data: The arithmetic mean (average) of N observations is calculated by dividing the sum of all values by the total count N.
+Mean from a Frequency Table: When data is summarized in a frequency table, the mean is computed as the sum of the products (f * x) divided by the total frequency sum(f).
+Finding the Median of Ordered Data: To find the median, observations must first be arranged in ascending or descending numerical order; for an odd number of items N, the median is at position (N + 1) / 2.
+Median for an Even Number of Observations: When a sorted dataset contains an even number of values N, the median is the arithmetic mean of the two middle values at positions N / 2 and (N / 2) + 1.
+Identifying the Mode and Bimodal Data: The mode is the observation that occurs with the greatest frequency in a dataset; a distribution with two tied highest-frequency values is bimodal.
+Range as a Measure of Spread: The statistical range measures dispersion by subtracting the minimum observation from the maximum observation (Range = Maximum - Minimum).
+Outlier Sensitivity of Mean vs Median: An extreme outlier strongly distorts the arithmetic mean because every value enters the sum, whereas the positional median remains largely unaffected.
+Pie Chart Sector Angle Calculation: In a pie chart, the central angle representing a category with frequency f out of total N is calculated as (f / N) * 360 degrees.
+Classical Probability Scale: The theoretical probability of an event E occurring in equally likely outcomes is P(E) = (Number of Favorable Outcomes) / (Total Possible Outcomes), which always lies between 0 (impossible) and 1 (certain).

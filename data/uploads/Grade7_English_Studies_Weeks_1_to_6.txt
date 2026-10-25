@@ -1,0 +1,77 @@
+[Page 1]
+Week 1: Parts of Speech, Phrase Types, and Clause Architecture
+Syntactic Role Determines Word Class: A word's grammatical part of speech is determined by the syntactic function it performs in a specific sentence rather than its dictionary appearance in isolation.
+Concrete, Abstract, and Collective Nouns: Concrete nouns name physically perceptible objects, abstract nouns name intangible qualities or ideas such as perseverance or justice, and collective nouns name groups of individuals such as a committee, panel, or flock.
+Transitive Verbs and Direct Objects: A transitive verb expresses an action that passes directly from the subject to a receiver called the direct object, as in "The prefect ring-fenced the laboratory equipment."
+Intransitive Verbs Without Direct Objects: An intransitive verb expresses complete action or state of being without taking a direct object, as in "The morning assembly commenced punctually."
+Adjectives vs Adverbs of Manner: An adjective modifies a noun or pronoun by specifying its quality or quantity, whereas an adverb modifies a verb, an adjective, or another adverb to indicate manner, time, place, or degree.
+Prepositional Phrases: A phrase is a group of related words lacking both a subject and a finite verb that functions as a single part of speech, such as the prepositional phrase "beneath the ancient baobab tree."
+Independent (Main) Clauses: An independent clause contains a grammatical subject and a finite predicate verb and expresses a complete thought capable of standing alone as a simple sentence.
+Subordinate (Dependent) Clauses: A subordinate clause contains a subject and verb but begins with a subordinating conjunction (such as although, because, unless, or provided that) or relative pronoun and cannot stand alone as a sentence.
+Adverbial Clauses of Condition and Concession: An adverbial clause of condition begins with "unless," "if," or "provided that" to state a requirement, while an adverbial clause of concession begins with "although" or "even though" to contrast with the main clause.
+Restrictive vs Non-Restrictive Relative Clauses: A restrictive relative clause introduced by "that" or "who" without commas is essential to identify the noun it modifies, whereas a non-restrictive clause set off by commas adds supplementary information.
+
+[Page 3]
+Week 2: Subject-Verb Concord, Pronoun Case, Tense Sequence, and Voice
+Fundamental Rule of Subject-Verb Agreement: A finite verb must agree in number (singular or plural) and person with its true grammatical subject headword, disregarding any intervening phrases.
+Intervening Accompaniment Phrases: Phrases introduced by "along with," "together with," "as well as," or "in addition to" do not compound the grammatical subject, so a singular subject followed by "as well as his classmates" still requires a singular verb.
+Singular Indefinite Pronouns: Indefinite pronouns including everyone, everybody, each, either, neither, someone, and nobody are grammatically singular and always take singular verbs and singular possessive pronouns.
+Proximity Concord with Correlative Conjunctions: When two subjects are joined by "either...or" or "neither...nor," the verb agrees in number with whichever subject noun phrase stands closer to the verb.
+Collective Noun Concord: A collective noun such as "audience" or "jury" takes a singular verb when the group acts as a single unified body, but takes a plural verb when the members act separately as individuals.
+Subjective vs Objective Pronoun Case: Subjective case pronouns (I, we, he, she, they, who) function as subjects of verbs or subject complements, whereas objective case pronouns (me, us, him, her, them, whom) function as objects of verbs or prepositions.
+Pronoun Case in Compound Structures: In a compound object following a preposition, such as "between you and me," both pronouns must be in the objective case ("me," never "I").
+Past Perfect Tense for Earlier Past Action: When two actions occurred in the past, the past perfect tense (had + past participle) marks the earlier action that was completed before the second past action (simple past) took place.
+Active to Passive Voice Transformation: Transforming an active sentence into passive voice promotes the original direct object to the grammatical subject position and uses an appropriate form of the auxiliary verb "be" plus the past participle.
+Dangling Participle Avoidance: An introductory participial phrase must directly modify the grammatical subject immediately following the comma; otherwise it creates a dangling modifier error.
+
+[Page 5]
+Week 3: Reading Comprehension, Inference, Context Clues, and Authorial Tone
+Explicit Statements vs Logical Inferences: An explicit fact is stated directly in the passage text, whereas a valid inference is a logical deduction synthesized strictly from textual evidence without adding unsupported outside assumptions.
+Identifying the Central Thesis Statement: The central thesis or main idea expresses the overarching argument unifying a passage, while supporting details provide specific examples, evidence, or illustrations that substantiate that claim.
+Antonym and Contrast Context Clues: Structural discourse markers such as "unlike," "whereas," "conversely," and "however" signal contrast context clues that reveal an unfamiliar word's meaning by opposing it to a known concept.
+Appositive Definition Context Clues: An appositive phrase placed immediately after a technical term and enclosed in commas or dashes provides a direct in-text definition clue for the reader.
+Authorial Tone vs Reader Mood: Tone denotes the writer's deliberate attitude toward the subject (such as analytical, skeptical, objective, orreverent), whereas mood refers to the emotional atmosphere evoked in the reader.
+Connotative vs Denotative Word Meaning: Denotation is the literal dictionary definition of a word, whereas connotation comprises the emotional, cultural, or evaluative associations carried by a word choice (for example, "thrifty" vs "stingy").
+Causal Discourse Markers: Transitional connectives such as "consequently," "therefore," "hence," and "as a result" explicitly establish a cause-and-effect relationship between preceding evidence and a conclusion.
+Concessive and Counterargument Transitions: Transitions such as "nevertheless," "nonetheless," and "admittedly" acknowledge an opposing point before reasserting the author's primary argument.
+Summary Writing Economy and Paraphrase: An effective comprehension summary condenses key points into original phrasing by eliminating repetitions, figurative illustrations, and tangential examples without distorting the author's meaning.
+Distinguishing Fact from Evaluative Opinion: A factual statement makes an objective claim verifiable by evidence in the passage, whereas an opinion expresses a subjective value judgment or personal preference.
+
+[Page 7]
+Week 4: Figurative Language, Poetic Devices, Sound Patterns, and Dramatic Irony
+Simile vs Direct Metaphor: A simile explicitly compares two dissimilar things using the connective words "like" or "as," whereas a metaphor asserts direct identity or equivalence between them without using "like" or "as."
+Personification of Inanimate Forces: Personification attributes human consciousness, emotions, or deliberate actions to non-human objects, natural phenomena, or abstract concepts.
+Apostrophe as Direct Address: Apostrophe is a rhetorical figure in which a speaker directly addresses an absent person, an abstract quality, or an inanimate object as though it were present and capable of responding.
+Verbal, Situational, and Dramatic Irony: Verbal irony occurs when a speaker says the opposite of what they mean; situational irony occurs when an outcome sharply reverses expectations; and dramatic irony occurs when the audience knows a critical truth hidden from a character.
+Hyperbole for Rhetorical Emphasis: Hyperbole uses deliberate, unmistakable exaggeration to intensify emotional impact or emphasis rather than to deceive the listener literally.
+Oxymoron and Paradox: An oxymoron places two contradictory words side by side in a compressed phrase (such as "bittersweet victory" or "deafening silence"), whereas a paradox is a full statement that appears self-contradictory yet reveals an underlying truth.
+Euphemism and Litotes: A euphemism substitutes a mild, indirect expression for a harsh or unpleasant reality, while litotes affirms a positive point by negating its opposite (such as "not inconsiderable").
+Alliteration and Consonance: Alliteration is the repetition of initial consonant sounds in stressed syllables of nearby words, whereas consonance repeats consonant sounds within or at the ends of words.
+Assonance and Onomatopoeia: Assonance repeats identical vowel sounds inside neighboring words to create internal musicality, and onomatopoeia uses words whose pronunciation mimics the physical sound described (such as "rustle" or "clatter").
+Synecdoche and Metonymy: Synecdoche uses a part of something to represent the whole (such as "all hands on deck"), whereas metonymy substitutes a closely associated attribute or emblem for the thing itself (such as "the crown" for monarchy).
+
+[Page 9]
+Week 5: Punctuation Mechanics, Direct and Indirect Speech, and Question Tags
+Semicolon Between Independent Clauses: A semicolon links two closely related independent clauses that are not joined by a coordinating conjunction, or precedes conjunctive adverbs such as "however;" and "therefore;".
+Colon Introducing Lists and Explanations: A colon follows a complete independent clause to introduce a formal list, an appositive explanation, or an illustrative quotation.
+Apostrophe for Possession vs Contraction: A possessive singular noun adds an apostrophe plus s (the student's notebook), a plural noun ending in s adds only an apostrophe after the s (the students' laboratory), while "it's" is always the contraction for "it is" and "its" is the possessive determiner.
+Backshifting Tenses in Indirect (Reported) Speech: When converting direct speech into indirect speech after a past-tense reporting verb (such as "said"), present simple verbs backshift to past simple, present continuous shifts to past continuous, and "will" shifts to "would."
+Deictic Time and Place Shifts in Reported Speech: In indirect speech, near deictic expressions shift to distant equivalents: "today" becomes "that day," "tomorrow" becomes "the following day," "yesterday" becomes "the previous day," and "here" becomes "there."
+Reporting Interrogative Sentences: When reporting a yes/no question in indirect speech, the conjunction "if" or "whether" introduces the clause and the inverted question word order reverts to normal declarative subject-verb order without a question mark.
+Positive and Negative Question Tag Polarity: A declarative statement with a positive verb takes a negative question tag, whereas a statement with a negative verb (or negative adverb like "seldom," "hardly," or "rarely") takes a positive question tag.
+Auxiliary Verb Matching in Question Tags: The question tag repeats the auxiliary or modal verb from the main clause; if the main clause uses a simple present or simple past lexical verb without an auxiliary, the appropriate form of "do," "does," or "did" is used.
+Exception for "I am" in Question Tags: Although the first-person singular present form is "I am," the standard contracted negative question tag in formal English grammar is "aren't I?".
+Quotation Marks and Terminal Punctuation: In direct speech, commas and periods are placed inside the closing quotation marks, while colons and semicolons are placed outside the closing quotation marks.
+
+[Page 11]
+Week 6: Essay Composition, Paragraph Unity, Formal Letters, and Lexis
+Four Major Modes of Essay Discourse: Narrative essays recount a sequence of events, descriptive essays create vivid sensory impressions, expository essays explain processes or concepts objectively, and argumentative essays persuade readers using reasoned evidence.
+Topic Sentence and Paragraph Unity: A unified body paragraph centers on a single controlling idea stated in its topic sentence, with every subsequent sentence providing direct explanation, evidence, or analysis for that single point.
+Coherence Through Transitional Bridges: Paragraph coherence is achieved by linking sentences logically using transitional expressions, pronoun reference chains, and deliberate repetition of key conceptual terms.
+Formal vs Informal Letter Conventions: A formal letter (such as an application or letter to a principal) requires two addresses (writer's address and date at the top right, recipient's title and address on the left), a formal salutation ("Dear Sir/Madam,"), a concise subject heading, formal register without contractions, and "Yours faithfully," followed by signature and full name.
+Informal Letter Features: An informal letter to a friend or relative uses only the writer's address and date at the top right, a warm salutation ("Dear Chinedu,"), conversational register permitting contractions, and a complimentary close such as "Yours sincerely," or "Best wishes,".
+Argumentative Essay Counterargument Refutation: A strong argumentative essay anticipates the strongest opposing viewpoint (counterargument) and systematically refutes it with verifiable evidence rather than relying on emotional fallacy.
+Prefix and Suffix Morphological Derivation: Prefixes (such as "un-," "dis-," "mis-," "pre-") generally alter a root word's meaning without changing its part of speech, whereas derivational suffixes (such as "-ness," "-ify," "-tion," "-ous") frequently transform the word into a different part of speech.
+Homophones, Homographs, and Homonyms: Homophones share identical pronunciation but differ in spelling and meaning (such as "principal" and "principle"), whereas homographs share identical spelling but differ in meaning and sometimes stress (such as "conduct" as a noun vs verb).
+Idiomatic Expressions and Collocations: An idiom is a fixed figurative expression whose meaning cannot be deduced from the literal definitions of its individual words (such as "to burn the midnight oil" meaning to study late into the night).
+Register Appropriateness to Audience and Context: Register refers to the specialized vocabulary, sentence complexity, and degree of formality selected to match a specific professional domain, audience, and communicative purpose.

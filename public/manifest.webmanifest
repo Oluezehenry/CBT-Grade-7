@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "ScholarCBT — Grade 7 Examination Platform",
+  "short_name": "ScholarCBT",
+  "description": "Source-Grounded Grade 7 CBT Examination & Offline Practice Platform",
+  "theme_color": "#0F4C81",
+  "background_color": "#F8FAFC",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[Page 1]
+Week 1: Parts of Speech, Phrase Types, and Clause Architecture
+Syntactic Function Determines Word Class: In English grammar, a word's part of speech is determined by its syntactic role within a specific sentence rather than in isolation; for example, the word "fast" functions as an adjective in "a fast runner," as an adverb modifying a verb in "she ran fast," and as a verb in "they fast during the season."
+Concrete, Abstract, and Collective Nouns: Concrete nouns name physically observable entities, abstract nouns name intangible qualities or concepts (such as justice, perseverance, or curiosity), and collective nouns refer to a group of individuals acting as a unit (such as a panel, flock, or committee).
+Transitive vs Intransitive Verbs: A transitive verb requires a direct object to complete its meaning (for example, "The student analyzed the passage"), whereas an intransitive verb expresses complete action without transferring action to a direct object (for example, "The bell rang loudly").
+Phrases vs Clauses: A phrase is a group of related words functioning as a single part of speech that lacks both a subject and a finite verb (such as the prepositional phrase "across the quiet courtyard"). A clause contains a subject and a finite predicate verb.
+Independent and Subordinate (Dependent) Clauses: An independent (main) clause expresses a complete thought and can stand alone as a grammatical sentence. A subordinate clause begins with a subordinating conjunction (such as although, because, unless, or while) or a relative pronoun (who, which, that) and depends on the main clause to complete its meaning.
+
+[Page 3]
+Week 2: Subject-Verb Concord, Pronoun Case, and Tense Consistency
+The Fundamental Rule of Subject-Verb Agreement: A finite verb must agree with its grammatical subject in both number (singular or plural) and person, ignoring any intervening prepositional phrases such as "along with," "together with," or "as well as" that appear between the subject headword and the verb.
+Indefinite Pronouns and Singular Concord: Indefinite pronouns such as everyone, everybody, each, neither, either, someone, and nobody are grammatically singular and always require a singular verb and singular possessive determiner (for example, "Each of the candidates has submitted his or her portfolio").
+Correlative Subjects (Either...Or and Neither...Nor): When two subjects are joined by "either...or" or "neither...nor," the Principle of Proximity applies: the verb agrees in number with the subject noun phrase positioned closer to the verb.
+Subjective vs Objective Pronoun Case: Pronouns functioning as the subject of a verb or subject complement take the subjective case (I, we, he, she, they, who), whereas pronouns serving as direct objects, indirect objects, or objects of prepositions take the objective case (me, us, him, her, them, whom).
+Active and Passive Voice Transformations: In active voice, the grammatical subject performs the action denoted by the verb. In passive voice, the original direct object becomes the grammatical subject receiving the action, formed using an auxiliary form of "be" followed by the past participle of the transitive verb.
+
+[Page 5]
+Week 3: Reading Comprehension, Inference, Tone, and Context Clues
+Distinguishing Explicit Facts from Logical Inferences: An explicit statement is directly stated verbatim in the reading passage, whereas a valid inference is a logical conclusion deduced by combining textual evidence without introducing unsupported external assumptions.
+Identifying Central Thesis vs Supporting Details: The main idea or central thesis encapsulates the overarching argument governing the entire passage or paragraph, while supporting details provide specific examples, statistics, sensory descriptions, or anecdotes that substantiate that thesis.
+Lexical Context Clues (Synonym, Antonym, and Explanation Clues): Readers determine the precise meaning of an unfamiliar word by analyzing surrounding structural cues—contrast words like "unlike" or "however" signal an antonym clue, while appositive phrases set off by commas or dashes provide direct definition clues.
+Authorial Tone, Mood, and Register: Tone reflects the author's attitude toward the subject matter (for example, analytical, skeptical, laudatory, or objective), conveyed through deliberate diction and syntax. Mood is the emotional atmosphere experienced by the reader, and register refers to the level of formality suited to audience and purpose.
+Evaluating Cause-and-Effect and Chronological Cohesion: Transitional discourse markers establish logical relationships between ideas: "consequently," "therefore," and "thus" signal causal results, whereas "nevertheless," "conversely," and "nonetheless" signal concession or contrast.
+
+[Page 7]
+Week 4: Figurative Language, Poetic Devices, and Rhetorical Analysis
+Simile, Metaphor, and Extended Conceit: Both simile and metaphor compare two fundamentally different things to illuminate a shared quality; a simile states the comparison explicitly using "like" or "as," whereas a metaphor asserts direct equivalence without "like" or "as."
+Personification and Apostrophe: Personification attributes human emotions, intentions, or physical actions to inanimate objects, natural forces, or abstract ideas (for example, "The relentless wind interrogated the wooden shutters").
+Irony (Verbal, Situational, and Dramatic): Verbal irony occurs when a speaker states the opposite of their intended meaning; situational irony occurs when the actual outcome of an event sharply contradicts logical expectations; and dramatic irony occurs when the audience possesses crucial knowledge that a character on stage lacks.
+Sound Devices (Alliteration, Assonance, and Onomatopoeia): Alliteration is the repetition of initial consonant sounds in closely connected words, assonance is the repetition of internal vowel sounds, and onomatopoeia uses words whose phonetic pronunciation imitates the natural sound described.
+Hyperbole, Euphemism, and Oxymoron: Hyperbole employs deliberate exaggeration for rhetorical emphasis rather than literal deception, euphemism substitutes a mild expression for a harsh or blunt reality, and oxymoron pairs two contradictory terms side by side (such as "deafening silence").

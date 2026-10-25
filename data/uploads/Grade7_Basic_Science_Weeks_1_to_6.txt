@@ -1,0 +1,77 @@
+[Page 1]
+Week 1: Cellular Organization, Organelles, Microscopy, and Membrane Transport
+Seven Characteristics of Living Organisms: Living things are distinguished from non-living matter by carrying out seven vital processes: movement, respiration, sensitivity, growth, reproduction, excretion, and nutrition.
+Function of the Nucleus: The nucleus serves as the control center of a eukaryotic cell because it contains chromosomes made of DNA that direct protein synthesis and cell division.
+Mitochondria and Aerobic Respiration: Mitochondria are rod-shaped organelles that oxidize glucose using oxygen to generate adenosine triphosphate (ATP), the chemical energy currency of the cell.
+Cell Membrane Selective Permeability: The plasma cell membrane is a flexible lipid-bilayer boundary that selectively regulates which dissolved ions, nutrients, and waste molecules enter or leave the cell.
+Cellulose Cell Wall in Plants: Plant cells are surrounded by a rigid outer cell wall composed of cellulose fibers that provides mechanical support and prevents the cell from bursting when water enters by osmosis.
+Chloroplasts and Photosynthesis: Chloroplasts are specialized plastids present in green plant cells that contain chlorophyll pigment to absorb sunlight and convert carbon dioxide and water into glucose.
+Large Permanent Central Vacuole: Mature plant cells contain a large central vacuole filled with cell sap that maintains turgor pressure against the cell wall to keep herbaceous stems upright.
+Levels of Multicellular Organization: In complex organisms, similar specialized cells form tissues, different tissues combine to form organs, and coordinated organs work together as organ systems.
+Passive Diffusion Down a Concentration Gradient: Diffusion is the net movement of gas or solute particles from a region of higher concentration to a region of lower concentration without requiring cellular ATP energy.
+Osmosis Across a Semi-Permeable Membrane: Osmosis is the net movement of water molecules from a dilute solution with high water potential to a concentrated solution with lower water potential across a selectively permeable membrane.
+
+[Page 3]
+Week 2: States of Matter, Kinetic Theory, and Thermal Phase Transitions
+Fundamental Postulate of Kinetic Theory: All matter is composed of tiny particles (atoms, molecules, or ions) in constant random motion whose average kinetic energy is directly proportional to Kelvin temperature.
+Particle Arrangement in Solids: Particles in a crystalline solid are tightly packed in a fixed, regular lattice held by strong intermolecular forces, allowing only vibration about fixed positions.
+Particle Arrangement in Liquids: Particles in a liquid remain close together with moderate intermolecular attraction but can slide past one another, giving liquids a definite volume but no fixed shape.
+Particle Behavior in Gases: Gas molecules move at high speeds with wide separations and negligible intermolecular forces, enabling gases to expand to fill any container and be easily compressed.
+Melting and Latent Heat of Fusion: During melting at a substance's melting point, absorbed thermal energy breaks the rigid intermolecular bonds of the solid lattice without increasing temperature until melting is complete.
+Boiling vs Surface Evaporation: Evaporation occurs only at the liquid surface at any temperature below the boiling point and causes cooling, whereas boiling occurs throughout the entire liquid volume at a fixed boiling temperature.
+Sublimation of Solids to Vapor: Sublimation is the direct endothermic phase transition from the solid state to the gaseous state without passing through an intermediate liquid phase, exhibited by dry ice (solid carbon dioxide), iodine crystals, and ammonium chloride.
+Condensation and Freezing as Exothermic Processes: When a vapor condenses into a liquid or a liquid freezes into a solid, particles lose kinetic energy, form stronger intermolecular bonds, and release heat to the surroundings.
+Effect of Atmospheric Pressure on Boiling Point: A liquid boils when its saturated vapor pressure equals external atmospheric pressure, so water boils below 100 degrees Celsius at high mountain altitudes where air pressure is lower.
+Brownian Motion Evidence: The irregular, zigzag motion of microscopic smoke or pollen particles suspended in air or water provides visible evidence of continuous bombardment by invisible, fast-moving fluid molecules.
+
+[Page 5]
+Week 3: Forms of Energy, Conservation Law, Efficiency, and Heat Transfer
+Definition and SI Unit of Energy: Energy is the capacity of a physical system to perform work, and all forms of energy are measured in the SI unit of Joules (J).
+Kinetic Energy Formula and Velocity Dependence: A moving body of mass m travelling at speed v possesses kinetic energy KE = 0.5 * m * v^2, so doubling the speed quadruples the kinetic energy.
+Gravitational Potential Energy Formula: An object of mass m raised to a vertical height h in a gravitational field of strength g stores gravitational potential energy GPE = m * g * h.
+Law of Conservation of Energy: Energy cannot be created or destroyed in an isolated system; it only transforms between forms while the total energy remains constant.
+Mechanical Efficiency Calculation: Because friction converts part of input work into wasted heat, mechanical efficiency is calculated as (Useful Energy Output / Total Energy Input) * 100%.
+Thermal Conduction in Solids: Conduction transfers heat through solids via atomic lattice vibrations and free delocalized electrons without bulk movement of the material itself; metals are superior thermal conductors.
+Thermal Insulators and Trapped Air: Materials such as wool, fiberglass, expanded polystyrene, and feathers are effective thermal insulators because they trap pockets of stationary air that inhibit conduction and convection.
+Convection Currents in Fluids: Convection transfers heat in liquids and gases when heated fluid expands, becomes less dense, and rises while cooler, denser fluid sinks to replace it.
+Thermal Radiation via Infrared Waves: Thermal radiation transfers heat by electromagnetic infrared waves and is the only heat transfer mode capable of travelling through a vacuum such as outer space.
+Surface Absorption and Emission of Radiation: Dull matte black surfaces are the best absorbers and best emitters of infrared thermal radiation, whereas polished shiny silver surfaces are the poorest absorbers and emitters, reflecting radiation instead.
+
+[Page 7]
+Week 4: Human Nutrition, Enzymatic Digestion, Respiration, and Circulation
+Autotrophic Photosynthesis Equation: Green plants manufacture glucose from carbon dioxide and water in the presence of sunlight and chlorophyll, releasing oxygen gas as a byproduct.
+Enzymes as Biological Catalysts: Digestive enzymes are specialized proteins that accelerate the chemical breakdown of large, insoluble food molecules into small, soluble molecules at an optimum temperature and pH.
+Starch Digestion by Salivary and Pancreatic Amylase: The enzyme amylase catalyzes the hydrolysis of starch into maltose sugar in the mouth and duodenum.
+Protein Digestion by Pepsin and Trypsin: Protease enzymes such as pepsin in the acidic gastric juice of the stomach break down complex dietary proteins into polypeptides and amino acids.
+Emulsification by Bile and Lipid Digestion by Lipase: Bile salts produced by the liver and stored in the gallbladder emulsify large fat globules into tiny droplets to increase surface area for lipase enzymes to digest fats into fatty acids and glycerol.
+Structural Adaptations of Small Intestine Villi: Villi in the ileum maximize nutrient absorption by providing a vast surface area, a single-cell-thick epithelial lining for rapid diffusion, and rich capillary and lacteal networks.
+Alveolar Gas Exchange in the Lungs: Oxygen in inhaled air dissolves in the moist lining of the alveoli and diffuses across thin alveolar walls into pulmonary capillaries, while carbon dioxide diffuses out of blood plasma to be exhaled.
+Hemoglobin Oxygen Transport: Red blood cells (erythrocytes) lack a nucleus to maximize space for hemoglobin, an iron-containing protein that reversibly binds oxygen to form oxyhemoglobin.
+Arteries vs Veins Structural Comparison: Arteries have thick muscular and elastic walls with narrow lumens to withstand high-pressure blood pumped away from the heart, whereas veins have thinner walls, wider lumens, and semilunar valves to prevent backflow of low-pressure blood.
+Capillary Exchange Network: Capillaries possess walls that are only one endothelial cell thick, allowing dissolved glucose, amino acids, and oxygen to diffuse directly into surrounding body tissues.
+
+[Page 9]
+Week 5: Elements, Compounds, Mixtures, and Laboratory Separation Techniques
+Definition of a Chemical Element: An element is a pure chemical substance made of only one kind of atom characterized by a unique atomic number (the number of protons in its atomic nucleus).
+Properties of a Chemical Compound: A compound is formed when atoms of two or more different elements chemically bond in a fixed ratio by mass, producing a pure substance with chemical properties completely distinct from its constituent elements.
+Characteristics of a Physical Mixture: A mixture consists of two or more substances mingled together without chemical bonding in variable proportions, where each component retains its own chemical identity and can be separated by physical methods.
+Filtration of Insoluble Solids: Filtration separates an insoluble suspended solid from a liquid using filter paper; the solid trapped on the paper is the residue and the clear liquid passing through is the filtrate.
+Evaporation and Crystallization: Crystallization recovers a dissolved solid solute from its solution by gently heating to evaporate part of the solvent until a hot saturated solution forms pure crystals upon cooling.
+Simple Distillation for Solvent Recovery: Simple distillation separates a pure liquid solvent from a dissolved non-volatile solid by boiling the solution and condensing the escaping vapor in a water-cooled Liebig condenser.
+Fractional Distillation of Miscible Liquids: Fractional distillation separates a mixture of miscible liquids with different boiling points, such as ethanol (78 degrees Celsius) and water (100 degrees Celsius), using a fractionating column packed with glass beads.
+Separating Funnel for Immiscible Liquids: Two immiscible liquids of different densities that form distinct layers, such as kerosene and water, are separated by opening the tap of a separating funnel to drain the denser bottom layer first.
+Paper Chromatography and Rf Value: Paper chromatography separates dissolved dye or ink pigments based on their different solubilities in the mobile solvent phase and adherence to the stationary paper phase, with retention factor Rf = (Distance Moved by Solute) / (Distance Moved by Solvent Front).
+Magnetic Separation of Ferromagnetic Components: Magnetic separation removes magnetic substances such as iron filings from non-magnetic materials like sulfur powder before any chemical heating occurs.
+
+[Page 11]
+Week 6: Forces, Newton's Laws, Pressure in Solids and Fluids, and Simple Machines
+Resultant Force and Equilibrium: When all forces acting on an object balance to give a resultant (net) force of zero, a stationary object remains at rest and a moving object continues at constant velocity in a straight line.
+Newton's Second Law of Motion: An unbalanced resultant force F acting on a mass m produces an acceleration a in the direction of the force according to the equation F = m * a.
+Distinction Between Mass and Weight: Mass is the scalar measure of the quantity of matter in a body measured in kilograms (kg), whereas weight is the gravitational force W = m * g acting on that mass measured in Newtons (N).
+Frictional Force and Lubrication: Friction opposes relative sliding motion between contacting surfaces; it is necessary for walking and braking but causes energy loss and wear in machine bearings, which is reduced using lubricants or ball bearings.
+Hooke's Law for Elastic Springs: Within the elastic limit of a helical spring, the extension e produced is directly proportional to the applied stretching force F, expressed as F = k * e.
+Solid Pressure and Contact Area: Pressure is defined as perpendicular force per unit area (P = F / A) measured in Pascals (N/m^2); reducing the contact area of a cutting blade greatly increases pressure for the same applied force.
+Hydrostatic Pressure in Liquids: Pressure inside a liquid of density rho at depth h is given by P = rho * g * h, meaning liquid pressure increases linearly with depth and acts equally in all directions at a given depth.
+Principle of Moments for Rotational Equilibrium: The moment (turning effect) of a force about a pivot equals Force multiplied by perpendicular distance from the pivot, and a lever is balanced when total clockwise moment equals total anticlockwise moment.
+Mechanical Advantage of Simple Machines: Mechanical Advantage (MA) is the ratio of Load overcome to Effort applied (MA = Load / Effort); a first-class lever with an effort arm longer than its load arm acts as a force multiplier with MA > 1.
+Velocity Ratio and Machine Efficiency: Velocity Ratio (VR) is the ratio of distance moved by the effort to distance moved by the load, and efficiency is related to MA and VR by Efficiency = (MA / VR) * 100%.
